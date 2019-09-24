@@ -1637,8 +1637,13 @@ section.lazy-placeholder:after {
   -webkit-backface-visibility: visible;
   backface-visibility: visible;
 }
-.cid-rCr4ReCjZ6 {
+.cid-rD0QK0FzRu {
   padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/bg-1920x1080.png");
+}
+.cid-rCr4ReCjZ6 {
+  padding-top: 60px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
